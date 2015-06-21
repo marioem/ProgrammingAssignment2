@@ -1,8 +1,9 @@
 ##     File name: cachematrix.R
-##      Revision: 1
+##      Revision: 1.1
 ##  Date created: 2015-06-21
 ## Date modified: 2015-06-21
-##        Author: marioem
+##        Author: marioem, based on stubs and instructions provided by Roger D. Peng as
+##                part of JHU's R Programming course.
 ##
 ## This R script defines two functions implementing caching mechanism for calculation
 ## of a matrix inverse.
